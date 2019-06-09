@@ -38,7 +38,7 @@ Some exciting Project, but related to Vtubers.
 
   KaguraMea's live record.
 
-  https://github.com/kaguramea-record/kaguramea-record.github.io
+  <https://github.com/kaguramea-record/kaguramea-record.github.io>
 
 * ### Alice-LiveMan <https://alice.myloli.me/login>
 
@@ -50,7 +50,7 @@ Some exciting Project, but related to Vtubers.
 
     Front-end of Alice-LiveMan.
 
-    https://github.com/nekoteaparty/Alice-Website
+    <https://github.com/nekoteaparty/Alice-Website>
 
 * ### AutoCSV
 
