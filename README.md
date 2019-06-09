@@ -85,3 +85,7 @@ Some exciting Project, but related to Vtubers.
 # Contribution
 
 You are welcome.
+
+Todo:
+
+- [ ] Categories...
