@@ -40,6 +40,12 @@ Some exciting Project, but related to Vtubers.
 
   <https://github.com/nekoteaparty/Alice-LiveMan>
 
+  * Alice-Website
+
+    Front-end of Alice-LiveMan.
+
+    https://github.com/nekoteaparty/Alice-Website
+
 * ### AutoCSV
 
   Simple stats.
