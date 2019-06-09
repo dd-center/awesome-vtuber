@@ -75,6 +75,12 @@ Some exciting Project, but related to Vtubers.
   Script to ban bots in bilibili.com live room.
 
   <https://github.com/bilibili-dd-center/bilibili-live-noscript>
+  
+* ### meamod
+
+  A mea mod based on majsoul-plus
+  
+  <https://github.com/2938137849/meamod>
 
 # Contribution
 
