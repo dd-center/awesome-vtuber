@@ -34,6 +34,12 @@ Some exciting Project, but related to Vtubers.
 
   <https://github.com/fzxiao233/Auto_Record_Matsuri>
 
+* ### kaguramea-record.github.io <https://kaguramea.live>
+
+  KaguraMea's live record.
+
+  https://github.com/kaguramea-record/kaguramea-record.github.io
+
 * ### Alice-LiveMan <https://alice.myloli.me/login>
 
   Multiplatform broadcast recording and relaying to bilibili.com.
